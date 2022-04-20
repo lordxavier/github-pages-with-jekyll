@@ -1,2 +1,4 @@
-title: "my-first-blog"
-date: 2020-04-20
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
